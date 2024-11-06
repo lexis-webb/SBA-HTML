@@ -1,0 +1,24 @@
+header{
+    text-align: center;
+    font-family:'Times New Roman', Times, serif
+}
+main{
+    text-align: center;
+}
+.navbar{
+    background-color:rgb(111, 159, 247);
+    text-align:right;
+    
+}
+main{
+    border-style: solid ;
+    border-radius: 25px;
+    max-width: calc(75%);
+    margin: auto;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+button:active{
+    background-color: rgb(47, 216, 160);
+    box-shadow: 0 5px;
+    translate: translateY(3px);
+}
